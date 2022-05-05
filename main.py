@@ -41,7 +41,6 @@ except Exception as err:
     print("Connection problem. Try again")
 
 print("Got all the data")
-print(countries[1], heights[1])
 height = 0.00
 while True:
     try:
